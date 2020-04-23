@@ -1,0 +1,112 @@
+/* FOR THE WHOLE PAGE */
+
+body{
+    font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+
+/* NAVBAR STUFF  */
+
+.about-us-link{
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.about-us-link:hover{
+    font-size: 20px;
+    color: #FFFFFF;
+}
+
+.karbon-navbar{
+    background-color: #40b39E;
+    height: 150px;
+}
+
+.karbon-navbar-toggler{
+    color: #FFFFFF
+}
+
+.karbon-logo{
+    height: 60px;
+    width: auto;
+}
+
+/* LANDING PAGE STUFF */
+
+.landing-page-wrapper{
+    padding-top: 20px;
+    padding-bottom: 75px;
+    background-color: #40b39E;
+    color: #FFFFFF;
+
+}
+
+.landing-left-side{
+    margin-left: 70px;
+}
+
+.karbon-landing-title{
+    font-size: 60px;
+}
+.karbon-landing-subtitle{
+    margin-top: -10px;
+    line-height: 25px;
+    font-size: 20px;
+    color: #EEEEEE;
+}
+
+.karbon-landing-message-wrapper{
+    padding-top: 20px;
+    margin-right: 50px;
+}
+
+.karbon-landing-message{
+    font-size: 27px;
+    line-height: 34px;
+    color: #FDFDFD;
+}
+
+.karbon-landing-image{
+    height: 400px;
+    width: auto;
+}
+
+.karbon-landing-button{
+    margin-top: 30px;
+    background-color: #f7cd3e;
+    padding-top: 8px;
+    padding-left: 30px;
+    padding-right: 30px;
+    font-size: 20px;
+    font-weight: 300;
+    color: #FFFFFF;
+    height: 65px;
+    border-radius: 65px;
+}
+
+.karbon-landing-button:hover{
+    margin-top: 30px;
+    /* background-color: #fad852; */
+    color: #FFFFFF;
+    box-shadow: 1px 0px 37px -5px rgba(247,204,62,1);
+}
+
+
+
+
+/* ONE TWO THREE STUFF */
+
+.one-two-three-wrapper{
+    height: 90px;
+    background-color: #358f77;
+    color: #FFFFFF;
+}
+
+.one-two-three-text{
+    padding-top: 15px;
+    font-size: 25px;
+}
+
+.scroll-text{
+    margin-top: -12px;
+}
